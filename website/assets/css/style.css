@@ -1,5 +1,6 @@
 body {
-  background: #ffffff;
+  background: #fff;
+
 }
 .header-hero {
   background-image: url(../img/bg.jpg);
@@ -9,4 +10,5 @@ body {
 }
 .header-hero h1 {
   font-size: 70px;
+
 }
